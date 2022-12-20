@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body {
+  font: 12pt Arial; 
+}
+
+p { 
+  text-align: justify;
+}
+
+/* 
+id = #
+class = .
+*/
+
+#principal {
+  text-align: center;
+}
+
+#secundario {
+  color: #472700;
+}
+
+.descricao {
+  color: #2c2c2c;
+}
