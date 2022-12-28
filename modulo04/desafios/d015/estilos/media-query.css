@@ -30,19 +30,27 @@
   body {
     background-image: linear-gradient(to top, var(--cor1), var(--cor2));
   }
-  
+
   #login {
     width: 950px;
   }
 
   #img {
-    float: left;
+    float: right;
     width: 50%;
     height: 100%;
   }
 
   #form {
-    float: right;
+    float: left;
     width: 50%;
+  }
+
+  #form h1 {
+    font-size: 2em;
+  }
+
+  #form p {
+    font-size: 1.2em;
   }
 }
